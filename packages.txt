@@ -1,0 +1,5 @@
+#1. Visual Studio 2019 - Desktop Development with C++
+#2. face_recognition
+#3. dlib
+#4. numpy
+#5. opencv
